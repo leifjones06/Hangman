@@ -1,0 +1,1 @@
+This was made as a final project for my senior year of high school. It isn't the most complex or well-written code ever, just a necessary part of actually learning to code. I do think for a beginner it's somewhat impressive, though, so I am keeping it up here.
